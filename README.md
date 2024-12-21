@@ -2,7 +2,7 @@
 Just a fun calculator for a school project  ^_^
 ## Description
 
-This project is a simple command-line calculator implemented in C++. It allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division). The program was developed as part of a [Course Name] course to demonstrate fundamental C++ programming concepts such as variables, input/output, loops, conditional statements, functions, and error handling using `try-catch` blocks.
+This project is a simple command-line calculator implemented in C++. It allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division). The program was developed as part of a Programming Language course to demonstrate fundamental C++ programming concepts such as variables, input/output, loops, conditional statements, functions, and error handling using `try-catch` blocks.
 
 ## Technologies Used
 
@@ -90,4 +90,4 @@ This project provided practical experience with several key C++ concepts covered
 
 ## Author
 
-[Your Name] - [Link to your GitHub profile (optional)]
+sapphire-source13
